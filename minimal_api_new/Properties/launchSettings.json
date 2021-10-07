@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "minimal_api_new": {
+    "minimal_web_api_example": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
